@@ -14,6 +14,7 @@
 		CF163393222B651C003D597F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF163391222B651C003D597F /* LaunchScreen.storyboard */; };
 		CF16339E222B651C003D597F /* IndicatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF16339D222B651C003D597F /* IndicatorTests.swift */; };
 		CF1633A9222B651C003D597F /* IndicatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1633A8222B651C003D597F /* IndicatorUITests.swift */; };
+		CF1633B7222B6C61003D597F /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1633B6222B6C61003D597F /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CF1633A4222B651C003D597F /* IndicatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IndicatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF1633A8222B651C003D597F /* IndicatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndicatorUITests.swift; sourceTree = "<group>"; };
 		CF1633AA222B651C003D597F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF1633B6222B6C61003D597F /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				CF163388222B6516003D597F /* AppDelegate.swift */,
 				CF16338A222B6516003D597F /* ViewController.swift */,
 				CF16338C222B6516003D597F /* Main.storyboard */,
+				CF1633B6222B6C61003D597F /* ViewController2.swift */,
 				CF16338F222B651C003D597F /* Assets.xcassets */,
 				CF163391222B651C003D597F /* LaunchScreen.storyboard */,
 				CF163394222B651C003D597F /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				CF16338B222B6516003D597F /* ViewController.swift in Sources */,
 				CF163389222B6516003D597F /* AppDelegate.swift in Sources */,
+				CF1633B7222B6C61003D597F /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
